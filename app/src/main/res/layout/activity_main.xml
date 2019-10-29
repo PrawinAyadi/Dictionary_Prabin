@@ -14,14 +14,14 @@
         android:hint="Search word's meaning"/>
 
     <ListView
-        android:id="@+id/listview1"
+        android:id="@+id/lstView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
 
         />
 
     <TextView
-        android:id="@+id/txtview1"
+        android:id="@+id/txtView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textColor="#00008b"
