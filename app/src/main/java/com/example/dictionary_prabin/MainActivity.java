@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
              "Redundant  ", "not or no longer needed or useful; superfluous.",
             "Abnormal    ", "deviating from what is normal or usual, typically in a way that is undesirable or worrying.",
             "Acident    ", "an event that happens by chance or that is without apparent or deliberate cause.",
+            "Permit    ", "officially allow (someone) to do something.",
     };
     private Map<String, String> dictionary1;
 
